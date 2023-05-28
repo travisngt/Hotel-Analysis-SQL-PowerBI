@@ -1,0 +1,32 @@
+# Parking Lot Size Analysis
+
+In this analysis, we will examine the need to increase the parking lot size based on personal car usage. The analysis will be based on the available data provided.
+
+## Data
+
+The table below shows the yearly revenue, the sum of required car parking spaces, and the parking percentages for the hotel:
+
+| Year | Sum of Revenue   | Sum of Required Car Parking Spaces | Parking Percentages |
+|------|-----------------|-----------------------------------|---------------------|
+| 2018 | 7,116,274.81    | 5,132                             | 2.49%               |
+| 2019 | 31,725,386.46   | 20,644                            | 2.50%               |
+| 2020 | 20,327,211.92   | 8,922                             | 2.05%               |
+
+## Analysis
+
+Based on the data provided, we can make the following observations:
+
+- There was a significant increase in revenue from 2018 to 2019, followed by a decrease in 2020.
+- The number of required car parking spaces increased from 2018 to 2019 and decreased in 2020.
+- The parking percentages remained relatively consistent in 2018 and 2019 but decreased in 2020.
+
+## Conclusion
+
+Considering the available data, we can conclude the following:
+
+- There was a substantial increase in parking demand from 2018 to 2019, as indicated by the significant increase in required car parking spaces. This suggests a higher number of guests with personal cars during that period.
+- However, there was a decrease in required car parking spaces in 2020, suggesting a potential decrease in parking demand. Further analysis is required to determine whether this decrease is a sustained trend or a temporary deviation.
+- To make a definitive determination on the need to increase the parking lot size, it is advisable to collect specific data on personal car usage over a longer period. This data would provide more accurate insights into parking demand and help make informed decisions regarding the parking lot size.
+
+Further analysis and additional data would be required to make a conclusive determination on whether to increase the parking lot size based on personal car usage.
+
