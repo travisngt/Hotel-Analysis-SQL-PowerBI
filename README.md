@@ -26,4 +26,4 @@ By addressing these requirements and presenting the analysis through an interact
 
 Throughout this portfolio, we will use SQL queries to retrieve and manipulate the necessary data and then integrate it into Power BI for visual analysis and storytelling.
 
-![image](https://github.com/travisngt/SQLPORTFOLIO/assets/111060416/21736e4c-0538-46bf-8497-896e216e574f)
+
