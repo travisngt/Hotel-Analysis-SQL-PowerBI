@@ -1,6 +1,6 @@
-# SQL Portfolio: Hotel Analysis with Power BI
+# Hotel Analysis with Power BI
 
-In this portfolio, we will explore and analyze hotel data using Power BI to answer specific questions and gain insights into various aspects of the hotel's performance. The focus will be on visualizing data to tell a story and provide valuable information for decision-making. The requirements for this portfolio include:
+In this project, we will explore and analyze hotel data using Power BI to answer specific questions and gain insights into various aspects of the hotel's performance. The focus will be on visualizing data to tell a story and provide valuable information for decision-making. The requirements for this portfolio include:
 
 1. **Build a visual data story or dashboard using Power BI:**
    - Create a visually appealing and interactive dashboard in Power BI to showcase the hotel's growth over the years.
